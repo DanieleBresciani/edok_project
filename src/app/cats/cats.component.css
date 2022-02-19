@@ -1,0 +1,9 @@
+.card {
+    margin: auto;
+    margin-top: 3vh;
+    margin-bottom: 3vh;
+}
+
+.card-title {
+    color: #0275d8;
+}
